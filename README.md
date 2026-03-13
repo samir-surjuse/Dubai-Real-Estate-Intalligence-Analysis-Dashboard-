@@ -1,9 +1,9 @@
 # Dubai-Real-Estate-Intalligence-Analysis-Dashboard-
 Power BI dashboard analysing Dubai housing market data to identify property pricing trends and real estate insights.
 
-Project Overview
-This project presents an interactive real estate analysis dashboard built using Microsoft Power BI.
-The dashboard analyzes Dubai housing data to understand property price trends, property size distribution, and neighborhood-based listings.
+Project Overview  
+This project presents an interactive real estate analysis dashboard built using Microsoft Power BI.  
+The dashboard analyzes Dubai housing data to understand property price trends, property size distribution, and neighborhood-based listings.  
 The goal of this project is to help investors and analysts make data-driven decisions in the real estate market.
 Dataset Description
 The dataset contains property information such as:
