@@ -66,7 +66,7 @@ Data Visualization
 Project Files    
 Dubai_Real_Estate_Dashboard.pbix – Power BI dashboard file  
 dataset.csv – dataset used for analysis  
-dashboard.png – dashboard preview image  
+dashboard.png – Dubai Real Estate Intelligence Dashboard.pdf  
 
 Conclusion  
 This project demonstrates how real estate data can be transformed into actionable insights using Power BI dashboards and data visualization techniques.
