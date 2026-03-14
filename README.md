@@ -13,16 +13,16 @@
 Column
 Description
 
-📏 SquareFeet  Size of the property in square feet  
-🛏 Bedrooms  
+📏 SquareFeet:-  Size of the property in square feet  
+🛏 Bedrooms  :-
     Number of bedrooms  
-🛁 Bathrooms  
+🛁 Bathrooms  :-
     Number of bathrooms  
-📍 Neighborhood  
+📍 Neighborhood  :-
     Location category (Urban, Suburb, Rural)  
-🏗 YearBuilt  
+🏗 YearBuilt  :-
     Construction year of property  
-💰 Price  
+💰 Price  :-
     Property selling price 
     
 🧹 Data Preparation  
