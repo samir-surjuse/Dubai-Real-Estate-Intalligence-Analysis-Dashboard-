@@ -3,43 +3,43 @@
 📊 Interactive Real Estate Market Analysis using Power BI
 
 📌 Project Overview  
-This project presents an interactive real estate analytics dashboard built using Microsoft Power BI.  
-The dashboard analyzes Dubai housing market data to uncover insights related to property prices, property size, and neighborhood distribution.  
-The goal of this project is to help investors, real estate agents, and analysts understand market trends and make data-driven decisions. 
+    This project presents an interactive real estate analytics dashboard built using Microsoft Power BI.  
+    The dashboard analyzes Dubai housing market data to uncover insights related to property prices, property size, and neighborhood distribution.  
+    The goal of this project is to help investors, real estate agents, and analysts understand market trends and make data-driven decisions. 
 
 🗂 Dataset Description
-The dataset contains property listings with the following attributes:
+    The dataset contains property listings with the following attributes:
 
-Column
-Description
+    Column
+    Description
 
 📏 SquareFeet  
-Size of the property in square feet  
+    Size of the property in square feet  
 🛏 Bedrooms  
-Number of bedrooms  
+    Number of bedrooms  
 🛁 Bathrooms  
-Number of bathrooms  
+    Number of bathrooms  
 📍 Neighborhood  
-Location category (Urban, Suburb, Rural)  
+    Location category (Urban, Suburb, Rural)  
 🏗 YearBuilt  
-Construction year of property  
+    Construction year of property  
 💰 Price  
-Property selling price  
+    Property selling price  
 🧹 Data Preparation  
-Data cleaning and transformation were performed using Power Query:  
-✔ Removed duplicates  
-✔ Handled missing values  
-✔ Corrected data types 
+    Data cleaning and transformation were performed using Power Query:  
+    ✔ Removed duplicates  
+    ✔ Handled missing values  
+    ✔ Corrected data types 
 
 📊 Calculated Columns  
-The dataset was enhanced using the following calculated columns:
+    The dataset was enhanced using the following calculated columns:
 
-Column
-Formula  
+    Column
+    Formula  
 💰 PricePerSqft  
-Price / SquareFeet  
+    Price / SquareFeet  
 🏠 PropertyAge  
-2025 - YearBuilt  
+    2025 - YearBuilt  
 🏷 ListingCategory  
 Budget / Mid-Range / High-End 
 
