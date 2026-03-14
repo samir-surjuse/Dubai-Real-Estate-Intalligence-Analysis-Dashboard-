@@ -10,11 +10,10 @@
 🗂 Dataset Description
     The dataset contains property listings with the following attributes:
 
-    Column
-    Description
+Column
+Description
 
-📏 SquareFeet  
-    Size of the property in square feet  
+📏 SquareFeet  Size of the property in square feet  
 🛏 Bedrooms  
     Number of bedrooms  
 🛁 Bathrooms  
