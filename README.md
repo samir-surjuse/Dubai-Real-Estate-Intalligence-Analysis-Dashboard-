@@ -24,7 +24,8 @@
 🏗 YearBuilt  
     Construction year of property  
 💰 Price  
-    Property selling price  
+    Property selling price 
+    
 🧹 Data Preparation  
     Data cleaning and transformation were performed using Power Query:  
     ✔ Removed duplicates  
